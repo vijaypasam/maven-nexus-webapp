@@ -16,8 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>raviweb</finalName>
-    
+    <finalName>raviweb</finalName>   
   <reporting>
     <plugins>
         <plugin>
