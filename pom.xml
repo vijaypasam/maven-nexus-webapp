@@ -21,17 +21,17 @@
   <repositories>
         <repository>
           <id>RaviGroupRepo</id>
-          <url>http://192.168.56.101:8081/nexus/content/groups/RaviGroupRepo/</url>
+          <url>http://35.184.60.117:8081/nexus/content/groups/RaviGroupRepo/</url>
         </repository>
    </repositories>
    <distributionManagement>
         <snapshotRepository>
             <id>RaviSnapRepo</id>
-            <url>http://192.168.56.101:8081/nexus/content/repositories/RaviSnapRepo/</url>
+            <url>http://35.184.60.117:8081/nexus/content/repositories/RaviSnapRepo/</url>
         </snapshotRepository>
         <repository>
             <id>RaviReleaseRepo</id>
-            <url>http://192.168.56.101:8081/nexus/content/repositories/RaviReleaseRepo/</url>
+            <url>http://35.184.60.117:8081/nexus/content/repositories/RaviReleaseRepo/</url>
         </repository>
     </distributionManagement> 
 </project>
