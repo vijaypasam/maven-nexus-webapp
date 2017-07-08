@@ -17,7 +17,6 @@
   </dependencies>
   <build>
     <finalName>raviweb</finalName>   
-  <reporting>
     <plugins>
         <plugin>
             <groupId>org.codehaus.mojo</groupId>
@@ -31,7 +30,6 @@
             </configuration>
         </plugin>
     </plugins>
-</reporting>
   </build>
   <repositories>
         <repository>
